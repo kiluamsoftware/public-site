@@ -135,7 +135,7 @@ hgroup {
 * {
   box-sizing: border-box;
 }
-
+/* #3a86ffc9 */
 html,
 body {
   font-family: "Roboto", sans-serif;
@@ -235,7 +235,7 @@ a.main-button {
   font-size: 13px;
   border-radius: 20px;
   padding: 12px 20px;
-  background-color: #3a86ff;
+  background-color: #3a86ffc9;
   text-transform: uppercase;
   color: #fff;
   letter-spacing: 0.25px;
@@ -373,8 +373,8 @@ header
 
 .header-area .main-nav .nav li a {
   display: block;
-  font-weight: 500;
-  font-size: 13px;
+  font-weight: 700;
+  font-size: 16px;
   color: #fff;
   text-transform: uppercase;
   -webkit-transition: all 0.3s ease 0s;
@@ -599,7 +599,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #f55858;
+  color: black;
 }
 
 @media (max-width: 1200px) {
@@ -737,7 +737,7 @@ welcome
   justify-content: center;
   /* background-image: url(../images/banner-bg.png);
   background-repeat: no-repeat; */
-  background: #3a86ff;
+  background: #3a86ffc9;
   /*
 TRY IT ... with or without CENTER CENTER
   background-position: center center; 
@@ -956,7 +956,7 @@ services
 #services {
   position: relative;
   padding: 120px 0px 90px 0px;
-  background-color: #3a86ff;
+  background-color: #3a86ffc9;
   /* background: rgba(0, 136, 232, 1); */
   /* background: -moz-linear-gradient(
     -45deg,
@@ -1035,7 +1035,7 @@ services
   margin: auto;
   position: relative;
   margin-bottom: 30px;
-  background: #3a86ff;
+  background: #3a86ffc9;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -1331,7 +1331,7 @@ footer
 --------------------------------------------- 
 */
 footer {
-  background-color: #3a86ff;
+  background-color: #3a86ffc9;
   padding: 60px 0px;
 }
 
@@ -1393,7 +1393,7 @@ preloader
 */
 #preloader {
   overflow: hidden;
-  background-image: linear-gradient(145deg, #3a86ff 0%, #0088e8 100%);
+  background-image: linear-gradient(145deg, #3a86ffc9 0%, #0088e8 100%);
   left: 0;
   right: 0;
   top: 0;
