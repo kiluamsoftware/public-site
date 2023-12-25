@@ -1332,7 +1332,16 @@ footer
 */
 footer {
   background-color: #3a86ffc9;
-  padding: 60px 0px;
+  padding: 40px 0px;
+  color: white;
+}
+footer h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+footer .contact p, a {
+  color: white;
 }
 
 footer .social {
